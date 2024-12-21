@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### peaceRyun!
+- 프론트엔지니어 & 웹퍼블리셔 교육과정 이수중
+- Korean, English
+- dbsrn1110@gmail.com // xp7373@naver.com
+
+
 ### Statistics
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=peaceRyun&show_icons=true&theme=holi" width = "49%" height="130%" />
