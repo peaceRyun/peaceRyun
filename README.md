@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FpeaceRyun%2Fhit-counter&count_bg=%233D8CC8&title_bg=%23000000&icon=myspace.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Hi there 👋
 
 <!--
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 ### peaceRyun!
 - 프론트엔지니어 & 웹퍼블리셔 교육과정 이수중
 - Korean, English
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) dbsrn1110@gmail.com
+- dbsrn1110@gmail.com
 
 ### **🛠 기술 및 도구**
 - 자주 쓰는 프레임워크 & 라이브러리
@@ -27,6 +29,10 @@ Here are some ideas to get you started:
 - 자주 쓰는 디자인 툴
   
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+
+- 사용 가능한 협업 툴
+
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 - 사용 가능한 문서 툴
   
@@ -40,3 +46,5 @@ Here are some ideas to get you started:
 <div>
   <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=peaceRyun&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
+
+
