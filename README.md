@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### peaceRyun!
 - 프론트엔지니어 & 웹퍼블리셔 교육과정 이수중
 - Korean, English
-- dbsrn1110@gmail.com // xp7373@naver.com
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) dbsrn1110@gmail.com
 
 ### **🛠 기술 및 도구**
 - 자주 쓰는 프레임워크 & 라이브러리
